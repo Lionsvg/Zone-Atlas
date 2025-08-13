@@ -1,7 +1,7 @@
 {
     "name": "Zone-Atlas",
     "preductname": "Zone-Atlas",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Launcher Mincraft pour le serveur Zone-Atlas",
     "main": "src/app.js",
     "author": {
